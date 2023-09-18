@@ -1,0 +1,17 @@
+export const constants = {
+  search: 'Search...',
+  required: 'Required',
+  title: 'Title',
+  description: 'Description',
+  due_date: 'Due date',
+  deadline: 'Deadline',
+  save: 'Save',
+  confirm: 'Confirm',
+  cancel: 'Cancel',
+  no_result: 'No result available',
+  no_task: "You don't have any task yet. Press + button to add a new task.",
+  delete: 'Delete',
+  yes: 'Yes',
+  no: 'No',
+  sure_delete: 'Are you sure to delete the task?',
+};
